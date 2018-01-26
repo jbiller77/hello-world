@@ -1,2 +1,3 @@
 # hello-world
 I am a Chemist who passes as an Electrical Engineer and Physicist. And now, apparently, a programmer...
+Magnetic Resonance of all kinds (nuclear magnetic resonance, electron paramagnetic resonance, ferromagnetic resonance) uber alles
